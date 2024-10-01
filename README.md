@@ -2,11 +2,11 @@
 
 ## **Pengantar**
 
-Komik telah menjadi bagian penting dari budaya populer di seluruh dunia, termasuk Indonesia. Seiring dengan perkembangan teknologi dan internet, akses untuk membaca komik semakin mudah, terutama melalui situs web yang menawarkan komik-komik dalam bahasa Indonesia secara gratis. Melalui artikel ini, kami akan memberikan [Daftar Website Baca Komik Bahasa Indonesia Gratis] yang dapat diakses dengan mudah oleh para penggemar komik di Indonesia.
+Komik telah menjadi bagian penting dari budaya populer di seluruh dunia, termasuk Indonesia. Seiring dengan perkembangan teknologi dan internet, akses untuk membaca komik semakin mudah, terutama melalui situs web yang menawarkan komik-komik dalam bahasa Indonesia secara gratis. Melalui artikel ini, kami akan memberikan *Daftar Website Baca Komik Bahasa Indonesia Gratis* yang dapat diakses dengan mudah oleh para penggemar komik di Indonesia.
 
 | No. | Website          | Deskripsi Singkat                                           | Link                     |
 |-----|------------------|-------------------------------------------------------------|--------------------------|
-| 1   | Komikoi           | Website untuk membaca komik Indonesia gratis dengan koleksi lengkap. | [Komikoi](https://komikoi.com) |
+| 1   | KomikOi           | Website untuk membaca komik Indonesia gratis dengan koleksi lengkap. | [KomikOi](https://komikoi.com) |
 | 2   | Komikcast         | Platform populer dengan update komik terbaru setiap hari.   | [Komikcast](https://komikcast.com) |
 | 3   | WestManga         | Situs baca komik gratis dengan genre beragam.               | [WestManga](https://westmanga.info) |
 | 4   | Komikindo         | Komik Indo gratis dengan antarmuka pengguna yang ramah.     | [Komikindo](https://komikindo.id) |
